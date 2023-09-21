@@ -1,6 +1,6 @@
-# Frontend Mentor - NFT preview card component solution
+# Frontend Mentor - Age Calculator App solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+ Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Overview
 
@@ -25,8 +25,8 @@ Check the folder screenshot for both mobile and desktop view.
 
 ### Links
 
-- Codesand Box : [solution URL here](https://ftt83l.csb.app/)
-- Live Site URL: (https://vercel.com/ebi-akangbou)
+- Netlify App : [solution URL here](https://csb-5tpr2p.netlify.app/)
+- Live Site URL: ([https://vercel.com/ebi-(https://csb-5tpr2p-ts2q646xo-ebi-akangbou.vercel.app/))
 
 ## My process
 
@@ -41,7 +41,7 @@ Check the folder screenshot for both mobile and desktop view.
 
 ### What I learned
 
-What I learnt from this challenge was knowing how to use coditional statemate more better and also to knowing knowing how to reassign variables 
+What I learnt from this challenge was knowing how to use coditional statemate more better and also to knowing knowing how to reassign variables.
 
 ### Continued development
 I'll like to know how I can make my programming codes more concise.
@@ -49,7 +49,9 @@ I'll like to know how I can make my programming codes more concise.
 
 ## Author
 
-- Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
+- Website - [Ebi Akangbou](https://codesandbox.io/u/Ebi%20Akangbou)
+- - Website - [Ebi Akangbou](https://codesandbox.io/u/Ebi%20Precious%20Ultimate)
+  - - - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou/age-calculator/settings/advanced)
 - Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/Ebi-Akangbou)
 - Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
 
