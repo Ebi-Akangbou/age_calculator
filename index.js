@@ -33,7 +33,7 @@ if(dayCal ===day.value){
 }if(month.value > monthCal && day.value > dayCal){
   const monthCal =date.getMonth() + 1;
   var monthAge= 12 + (monthCal)-(month.value)-1;
-}else if(month.value > monthCal && day.value < dayCal){
+}else if(month.value > monthCal && day.value <= dayCal){
   const monthCal =date.getMonth() + 1;
     var monthAge= 12 + (monthCal)-(month.value);
 }else{
@@ -43,6 +43,7 @@ if(dayCal ===day.value){
   var monthAge= (monthCal)-(month.value)-1;
  }else if(monthCal > month.value && dayCal < day.value ){
     var monthAge= (monthCal)-(month.value);
+    // 
  }
 else{
    null
